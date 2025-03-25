@@ -1,5 +1,4 @@
 ## Setup & Installation
-## Test
 ### Setup a virtual environment
 ```
 sudo apt update && sudo apt upgrade -y
