@@ -1,5 +1,3 @@
-![Image](https://rock-technologies.com/Downloads/ABW/Simplenotes/Flask_WEB_GUI_1R.png)
-
 ## Setup & Installation
 
 ### Setup a virtual environment
@@ -31,3 +29,4 @@ python3 add_user.py
 ```cmd
 python3 run.py
 ```
+![Image](https://rock-technologies.com/Downloads/ABW/Simplenotes/Flask_WEB_GUI_1R.png)
